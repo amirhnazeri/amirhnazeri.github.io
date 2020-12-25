@@ -2632,13 +2632,13 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.png");
+		background-image: url("../../images/banner.jpg");
 		background-position: top center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 20em;
 		width: 100%;
 	}
 
